@@ -1,0 +1,38 @@
+[
+    {
+        "img": "images/p1.png",
+        "name": "Muskan Khandelwal",
+        "about": "Muskan Khandelwal serves as the HR professional at Bynry, leveraging her expertise to foster a thriving workplace. Her dedication enhances organizational synergy and employee well-being..",
+        "location": "Pune bavdhan, Maharashtra"
+    },
+    {
+        "img": "images/p5.png",
+        "name": "Mitali Mukherjee",
+        "about": "Mitali Mukherjee excels as the Manager of HR and Operations, showcasing adept leadership in overseeing human resources and operational functions. Her Certified HRBP qualification further underscores her proficiency in strategic HR management.",
+        "location": "Pune Baner, Maharashtra"
+    },
+    {
+        "img": "images/p3.png",
+        "name": "Ankit Dwivedi",
+        "about": "Ankit Dwivedi assumes the role of Manager - Marketing at Bynry, orchestrating strategic marketing initiatives that amplify the company's brand presence and engagement.",
+        "location": "Pune Balewadi, Maharashtra"
+    },
+    {
+        "img": "images/p2.png",
+        "name": "Akshay Raje",
+        "about": "Akshay Raje contributes his software engineering prowess at the, Bynry, playing a pivotal role in crafting technological solutions that drive innovation and company success.",
+        "location": "Pune Chinchwad, Maharashtra"
+    },
+    {
+        "img": "images/p4.png",
+        "name": "Sarvesh Tarhekar",
+        "about": "Sarvesh Tarhekar holds the position of Technical Specialist in Networking, bringing forth specialized skills and expertise to drive the implementation and management of advanced networking solutions.",
+        "location": "Pune Shivajinagar, Maharashtra"
+    },
+    {
+        "img": "images/p6.png",
+        "name": "Samarth Parale",
+        "about": "Samarth Parale contributes as a skilled Software Engineer at Bynry, actively participating in the development and enhancement of innovative software solutions that drive the company's technological growth.",
+        "location": "Pune hadapsar, Maharashtra"
+    }
+]

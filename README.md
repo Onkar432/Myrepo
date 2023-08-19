@@ -1,6 +1,6 @@
 #VISIT PROJECT:(https://bynry-profile-card-hiring-question.netlify.app).
 ![s1](![s2](https://github.com/Onkar432/Myrepo/assets/112766269/1b0a8a10-2e6c-4b6f-bb01-5d5fafa7e261)
-https://github.com/Onkar432/Myrepo/assets/112766269/1aa33907-296e-43fe-9009-dd9054feeac1)
+![s1](![s2](https://github.com/Onkar432/Myrepo/assets/112766269/1aa33907-296e-43fe-9009-dd9054feeac1)
 
 # Getting Started with Create React App
 
